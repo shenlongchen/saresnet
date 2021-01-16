@@ -1,0 +1,7 @@
+{
+  "num_epochs": 150,
+  "learning_rate": 0.0002,
+  "learning_rate_pretrain": 0.0005,
+  "batch_size": 100,
+  "max_to_keep":5
+}
